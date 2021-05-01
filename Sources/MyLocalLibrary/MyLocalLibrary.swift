@@ -1,5 +1,6 @@
 public struct MyLocalLibraryStructure {
-    public var anyText = "Hello, World!"
+    public var anyText = "Fuck the World!"
+    public var anotherText = "sajbkasjb"
     
     public init() {
 
